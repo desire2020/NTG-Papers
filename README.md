@@ -39,6 +39,7 @@ This repository presents a collection of previous research papers of Neural Text
             * SeqGAN [ SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)
             * MaliGAN [Maximum-likelihood augmented discrete generative adversarial networks](https://arxiv.org/abs/1702.07983)
             * RankGAN [Adversarial ranking for language generation](http://papers.nips.cc/paper/6908-adversarial-ranking-for-language-generation)
+            * ScratchGAN - Big Version of SeqGAN gets rid of pre-training! [Training Language GANs from Scratch](https://arxiv.org/abs/1905.09922)
         * Adversarial Feature Matching
             * TextGAN [Adversarial feature matching for text generation](https://arxiv.org/abs/1706.03850)
         * Denoise Sequence-to-sequence Learning
@@ -50,4 +51,4 @@ This repository presents a collection of previous research papers of Neural Text
         * Sophisticated Smoothing
             * WGAN-GP, GAN-GP [Adversarial generation of natural language](https://arxiv.org/abs/1705.10929)
     * Cooperative Methods
-        * CoT [CoT: Cooperative Training for Generative Modeling](https://arxiv.org/abs/1804.03782)
+        * CoT [CoT: Cooperative Training for Generative Modeling of Discrete Data](https://arxiv.org/abs/1804.03782)
